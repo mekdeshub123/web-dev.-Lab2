@@ -1,0 +1,16 @@
+a{
+    display: block;
+    height:40px ;
+    border:2px dashed blue;
+    margin: 5px
+}
+#Real-Alert{
+    background-color: black ;
+    color: red
+    text-size: 18p;
+    text-align: center;
+}
+h1{
+    color: red;
+    font-size: 18%;
+}

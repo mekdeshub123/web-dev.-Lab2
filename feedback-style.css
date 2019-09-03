@@ -1,0 +1,8 @@
+.jumbotron {
+    background: red;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
