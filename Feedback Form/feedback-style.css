@@ -1,0 +1,14 @@
+.jumbotron {
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace
+}
+body {
+    margin:40px;
+    font-family: coiny, cursive;
+}
+.header{
+    width: 450px;
+    height:auto;
+    padding:20px;
+    border:2px double black;
+}
